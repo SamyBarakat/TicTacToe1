@@ -2,7 +2,6 @@ package tictactoe;
 
 import java.util.*;
 
-// alt + shift + f
 public class TicTacToe {
 
     static ArrayList<Integer> playerSpots = new ArrayList<Integer>();

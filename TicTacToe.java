@@ -1,3 +1,5 @@
+// Author: Samy Barakat
+
 package tictactoe;
 
 import java.util.*;
